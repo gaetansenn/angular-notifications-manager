@@ -1,0 +1,30 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "Gaetan SENN",
+        "email": "gaetan.senn@gmail.com"
+      },
+      "libraryName": {
+        "original": "Angular Notifications Manager",
+        "camelized": "angularNotificationsManager",
+        "dasherized": "angular-notifications-manager",
+        "slugified": "angular-notifications-manager",
+        "parts": [
+          "angular",
+          "notifications",
+          "manager"
+        ]
+      },
+      "includeModuleDirectives": false,
+      "includeModuleFilters": false,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": false,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": false,
+      "librarySrcDirectory": "src/angular-notifications-manager",
+      "libraryUnitTestDirectory": "test/unit/angular-notifications-manager",
+      "libraryUnitE2eDirectory": "test/e2e/angular-notifications-manager"
+    }
+  }
+}
